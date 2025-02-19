@@ -77,7 +77,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
     </style>
     <script type="text/javascript"
         src="https://app.sandbox.midtrans.com/snap/snap.js"
-        data-client-key="SB-Mid-client-fLxxY8JcCqDRS2zv"></script>
+        data-client-key="CLIENT_KEY"></script>
 </head>
 
 <body>
