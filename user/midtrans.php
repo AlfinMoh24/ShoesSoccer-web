@@ -2,7 +2,7 @@
 require_once dirname(__FILE__) . '/midtrans-php-master/Midtrans.php';
 
 // Set your Merchant Server Key
-\Midtrans\Config::$serverKey = 'SB-Mid-server-NtbEgxw3c-p71fPPCep35b0t';
+\Midtrans\Config::$serverKey = 'SERVER_KEY';
 // Set to Development/Sandbox Environment (default). Set to true for Production Environment (accept real transaction).
 \Midtrans\Config::$isProduction = false;
 // Set sanitization on (default)
